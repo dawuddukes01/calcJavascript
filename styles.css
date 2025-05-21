@@ -75,18 +75,15 @@
 }
 
 .calculation-display {
+    color:white;
     padding-top: 10px;
     height: 2em;
-    font-weight: 500;
-    margin-top: -20px;
-    font-size: 1.3em;
-    white-space: nowrap;
-    overflow:hidden;
-    text-overflow: ellipsis;
+    font-weight: 400;
+    font-size: 1em;
 }
 
 .result-display {
-    color:agua;
+    color: aqua;
     height:5em;
     font-weight: 500;
     margin-top: -20px;
